@@ -13,8 +13,6 @@ body {
     border-width: 5.5px;
     border-color: rgb(242, 10, 10);
     border-style: solid;
-
-
 }
 
 .header {
@@ -27,7 +25,6 @@ body {
     left: -0.7999999999999998px;
     top: 0;
 }
-
 
 .search {
     width: 430px;
